@@ -1,0 +1,59 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "rewards": "My Rewards",
+    "store": "Add-On Store",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "welcome": "Welcome to Actyme",
+    "points": "Points",
+    "level": "Level",
+    "nextReward": "Next Reward"
+  },
+  "rewards": {
+    "title": "My Rewards & Redemptions",
+    "subtitle": "Track your earned rewards and redemption history",
+    "active": "Active Rewards",
+    "history": "Redemption History",
+    "noRewards": "No rewards yet",
+    "getStarted": "Complete tasks to earn your first reward!",
+    "status": {
+      "pending": "Pending",
+      "active": "Active",
+      "expired": "Expired",
+      "used": "Used"
+    },
+    "redeem": "Redeem Now",
+    "viewCode": "View Code"
+  },
+  "store": {
+    "title": "Add-On Store",
+    "subtitle": "Enhance your experience with premium add-ons",
+    "addToCart": "Add to Cart",
+    "removeFromCart": "Remove from Cart",
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "purchase": "Purchase",
+    "purchaseHistory": "Purchase History",
+    "emptyCart": "Your cart is empty",
+    "total": "Total",
+    "features": "Features",
+    "popular": "Popular"
+  },
+  "errors": {
+    "fetchFailed": "Failed to fetch data",
+    "purchaseFailed": "Purchase failed",
+    "redeemFailed": "Redemption failed"
+  }
+}
